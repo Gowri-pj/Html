@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>University Portal</h1>
+    <h3>Quick Links</h3>
+    <ul>
+        <li><a href="#courses">Our Courses</a></li>
+        <li><a href="#library">Library Resources</a></li>
+    </ul>
+
+    <h2 id="courses">Departments & Courses</h2>
+    <p>We offer specialized tracks in:</p>
+    <ul>
+        <li>Computer Science & Engineering</li>
+        <li>Cybersecurity</li>
+        <li>Information Technology</li>
+    </ul>
+
+    <h2 id="library">Digital Library</h2>
+    <p>Access over 50,000 journals and technical papers online.</p>
+</body>
+</html>
