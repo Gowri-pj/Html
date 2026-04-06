@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="#f0f8ff">
+    <h1 align="center" style="color: #2c3e50;">Curriculum Vitae</h1>
+    <hr color="black" size="2">
+
+    <h3 style="background-color: #dcdde1;">Academic Profile</h3>
+    <p><b>Degree:</b> B.Tech in CSE</p>
+    <p><b>Focus:</b> Cybersecurity & Architecture</p>
+
+    <h3 style="background-color: #dcdde1;">Technical Skills</h3>
+    <font face="Verdana" size="3" color="darkgreen">
+        Programming, Web Development, Logic Design.
+    </font>
+
+    <p align="right"><a href="mailto:contact@email.com">Contact Me</a></p>
+</body>
+</html>
