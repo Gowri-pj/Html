@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Rectangle Area Calculator</h2>
+    <button onclick="calculateArea()">Start Calculation</button>
+
+    <script>
+        function calculateArea() {
+            let length = prompt("Enter the length of the rectangle:");
+            let width = prompt("Enter the width of the rectangle:");
+            
+            if (length != null && width != null) {
+                let area = parseFloat(length) * parseFloat(width);
+                alert("The area of the rectangle is: " + area);
+            }
+        }
+    </script>
+</body>
+</html>
