@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: #e8f4f8;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+            text-align: center;
+        }
+        .city-image {
+            border: 5px solid #fff;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+            width: 400px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Home Town</h1>
+    <p>A place known for its culture and beautiful landscapes.</p>
+    <img src="hometown.jpg" alt="City View" class="city-image">
+</body>
+</html>
