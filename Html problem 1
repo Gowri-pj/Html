@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <frameset rows="50%, 50%">
+        <frame src="top.html">
+        <frameset cols="50%, 50%">
+            <frame src="bottom_left.html">
+            <frame src="bottom_right.html">
+        </frameset>
+    </frameset>
+</html>
